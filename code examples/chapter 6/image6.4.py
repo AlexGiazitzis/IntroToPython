@@ -1,0 +1,5 @@
+file = open("test2.txt", 'a')
+file.write("Super easy!\n")
+file.close()
+file = open("test2.txt")
+file.close()
