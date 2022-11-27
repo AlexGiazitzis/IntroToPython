@@ -15,7 +15,7 @@ This document offered in two languages at the moment, [English](./Introduction%2
 8. Examples & Exercises
 
 ## Notes
-If any script is not running, make all requirements are propery satisfied, like having the appropriate files in the same directory, etc. Some files may not be included due to licensing issues, but you can supplement your own (like images for certain scripts) since it should not matter what file the code loads but what the outcome is from using the script.
+If any script is not running, make sure all requirements are propery satisfied, like having the appropriate files in the same directory, etc. Some files may not be included due to licensing issues, but you can supplement your own (like images for certain scripts) since it should not matter what file the code loads but what the outcome is from using the script.
 
 ## Setup
 * Windows: Run 
